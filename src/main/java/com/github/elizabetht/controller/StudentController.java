@@ -18,7 +18,7 @@ import com.github.elizabetht.service.StudentService;
 @Controller
 @SessionAttributes("student")
 public class StudentController {
-
+/*hai*/
 	@Autowired
 	private StudentService studentService;
 
